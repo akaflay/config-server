@@ -47,5 +47,5 @@ With microservices architecture, we can have a central config server where we ha
     ]
 }
 ```
-
-For any Questions and Concerns please connect with me at https://better-coder.slack.com/
+## Questions and Concerns
+https://better-coder.slack.com/
