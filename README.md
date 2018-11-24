@@ -31,7 +31,7 @@ With microservices architecture, we can have a central config server where we ha
             "source": {
                 "db.url": "jdbc:mysql://127.0.0.1/college",
                 "db.user": "root",
-                "db.password": "rootroot"
+                "db.password": "root"
             }
         },
         {
@@ -39,7 +39,7 @@ With microservices architecture, we can have a central config server where we ha
             "source": {
                 "db.url": "jdbc:mysql://127.0.0.1/college",
                 "db.user": "root",
-                "db.password": "rootroot"
+                "db.password": "root"
             }
         },
         {
@@ -47,7 +47,7 @@ With microservices architecture, we can have a central config server where we ha
             "source": {
                 "db.url": "jdbc:mysql://127.0.0.1/college",
                 "db.user": "root",
-                "db.password": "rootroot"
+                "db.password": "root"
             }
         }
     ]
