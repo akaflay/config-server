@@ -23,25 +23,31 @@ With microservices architecture, we can have a central config server where we ha
         "default"
     ],
     "label": null,
-    "version": "2cc799b460b4df6ed8b7a4d9be310eec84ae6200",
+    "version": "09be70d0cf3d0eea54990b8e3eab6e13d4e2d10f",
     "state": null,
     "propertySources": [
         {
             "name": "https://github.com/akaflay/configuration//app.properties",
             "source": {
-                "server.port": "8082"
+                "db.url": "jdbc:mysql://127.0.0.1/college",
+                "db.user": "root",
+                "db.password": "rootroot"
             }
         },
         {
             "name": "https://github.com/akaflay/configuration//app.yml",
             "source": {
-                "server.port": 8083
+                "db.url": "jdbc:mysql://127.0.0.1/college",
+                "db.user": "root",
+                "db.password": "rootroot"
             }
         },
         {
             "name": "https://github.com/akaflay/configuration//application.properties",
             "source": {
-                "server.port": "8081"
+                "db.url": "jdbc:mysql://127.0.0.1/college",
+                "db.user": "root",
+                "db.password": "rootroot"
             }
         }
     ]
