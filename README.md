@@ -35,7 +35,7 @@ With microservices architecture, we can have a central config server where we ha
         {
             "name": "https://github.com/akaflay/configuration//app.yml",
             "source": {
-                "server.port": 8082
+                "server.port": 8083
             }
         },
         {
